@@ -36,7 +36,7 @@ legendestudios.addEventListener('click', function(){
 });
 /*Oculta los estudios*/
 ulformacion.addEventListener('click', function(){
-    ocultar(ulformacion, legendestudios, 'formacion');
+    ocultar(ulformacion, legendestudios, 'estudios');
 });
 
 /*Definicion de funciones*/
