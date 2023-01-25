@@ -1,0 +1,35 @@
+
+img{
+  padding: 5px;
+  border-radius: 20px;
+  width: 150px;
+  height: auto;
+}
+div{
+  margin: 5px;
+  border: 10px ridge blue;
+  border-radius: 20px;
+ background-color: lightblue;
+  
+}
+fieldset{
+  padding: 5px;
+  border: 5px double purple;
+  border-radius: 20px;
+  background: floralwhite;
+}
+legend{
+  color: whitesmoke;
+  font-weight: bold;
+  background: silver;
+  border-radius: 20px;
+  border: 5px ridge turquoise;
+  text-shadow: 3px 3px 3px black;
+  }
+  h2{
+    color: beige;
+    text-shadow: 3px 3px 3px black;/*darkgoldenrod;*/
+  }
+ul{
+  display: none;
+}
